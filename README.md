@@ -1,6 +1,6 @@
 # 👨‍💻 Iago Bogler
 
-**´Desenvolvedor de Software | Analista de Sistemas Júnior | Assistente de TI´**
+**Desenvolvedor de Software | Analista de Sistemas Júnior | Assistente de TI**
 
 Profissional de Tecnologia da Informação com experiência em suporte técnico, infraestrutura e desenvolvimento de software. Atuo atualmente como Assistente de TI, realizando atividades relacionadas a suporte N1, administração de ambientes corporativos e manutenção de equipamentos. Possuo formação técnica em Desenvolvimento de Sistemas e estou cursando Engenharia de Software. Tenho conhecimentos em Python, Flask, Java, Flutter, JavaScript, banco de dados e Inteligência Artificial aplicada ao desenvolvimento, buscando constantemente aprimorar minhas habilidades e contribuir com soluções tecnológicas eficientes e inovadoras.
 
