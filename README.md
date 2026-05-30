@@ -13,7 +13,7 @@ Profissional de Tecnologia da Informação com experiência em suporte técnico,
             target="_blank"
         >
     </a>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+    <a href="https://www.linkedin.com/in/iago-bogler-064b59289" target="_blank">
         <img 
         alt="Profile Linkedin" 
         title="Acessar Perfil"
